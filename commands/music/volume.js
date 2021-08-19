@@ -20,3 +20,4 @@ module.exports = {
         if (success) message.channel.send(`${client.emotes.success} - Volume set to **${parseInt(args[0])}%** !`);
     },
 };
+
